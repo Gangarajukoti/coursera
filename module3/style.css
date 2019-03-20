@@ -1,5 +1,5 @@
 #h {
-	color: red;
+	color: green;
 	padding-bottom: 10px;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .chicken,.beef,.sushi{
-	border: 1px solid white;
+	border: 1px solid lightgrey;
 }
 
 
@@ -54,7 +54,7 @@ li {
 	text-align: center;
 	padding-top: 5px;
 	padding-left: 40%;
-	color:yellow;
+	color:orange;
 
 }
 
@@ -64,4 +64,3 @@ p {
 	width:80%;
 	margin-left:12px;
 }
-
